@@ -420,10 +420,10 @@ input {
   padding-right: 247px;
   border-radius: 2px;
 }
-.input_section{
+.input_section {
   border-radius: 2px;
 }
-.input_section:hover{
+.input_section:hover {
   border-bottom: #0395fe;
   cursor: pointer;
 }
@@ -434,20 +434,18 @@ input {
   width: 635px;
   height: 64px;
   margin-bottom: 107px;
-  border: 2px solid #BCDDFE;
-  
+  border: 2px solid #bcddfe;
 }
 
 .input_btn {
-  background: #40BFFF;
+  background: #40bfff;
   color: #fff;
   font-size: 20px;
   font-weight: 400;
   line-height: normal;
   cursor: pointer;
   border: none;
-  padding:17px 27px;
-  
+  padding: 17px 27px;
 }
 /*End Best seller section*/
 /*  Footer Section */
@@ -492,7 +490,7 @@ input {
   display: flex;
   align-items: end;
 }
-.footerImg{
+.footerImg {
   max-width: 1500px;
   display: flex;
   align-items: center;
@@ -500,4 +498,3 @@ input {
   position: absolute;
 }
 /*End Footer Section */
-
